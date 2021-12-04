@@ -33,5 +33,5 @@ function touchStarted() {
 
    x = 0; 
    speed = 1;
-
+  return false;
 }
