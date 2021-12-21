@@ -11,3 +11,5 @@ mobile:
 
 * tap once = reset 
 * tap twice = toggle flip scan (horz -> vert) 
+
+![](https://github.com/nightshining/Slitscan_p5js/blob/gh-pages/slitscan.gif)
